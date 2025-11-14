@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Sale",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2025-06-17T13:32:17.150Z",
+      "notes": "",
+      "position": {
+        "lat": "33.96589081176056",
+        "lng": "-6.767578125000001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-06-18T00:56:46.133Z",
+      "notes": "",
+      "position": {
+        "lat": "30.02523950833787",
+        "lng": "31.245117187500004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Castilblanco de los Arroyos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-11-14T14:41:20.834Z",
+      "notes": "zzzzzzz",
+      "position": {
+        "lat": "37.61666423765244",
+        "lng": "-6.020507812500001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Al Maḩallah al Kubra",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-11-14T14:41:48.023Z",
+      "notes": "mmmm",
+      "position": {
+        "lat": "30.962431218881576",
+        "lng": "31.173706054687504"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Zasmuky",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2025-11-14T14:42:16.479Z",
+      "notes": "bbb",
+      "position": {
+        "lat": "49.92665420587822",
+        "lng": "15.029296875000002"
+      },
+      "id": 98443202
+    }
+  ]
+}
